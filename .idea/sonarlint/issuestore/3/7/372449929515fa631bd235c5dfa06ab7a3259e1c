@@ -1,0 +1,11 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "obj1".(ãø•×øÿÿÿÿ
+D
+java:S1481")Remove this unused "obj1" local variable.(ãø•×øÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(§¼ÿ„
+N
+java:S1854"8Remove this useless assignment to local variable "obj2".(—ßò
+?
+java:S1481")Remove this unused "obj2" local variable.(—ßò
+V	java:S125"<This block of commented-out lines of code should be removed.(À¢Øøùÿÿÿÿ
